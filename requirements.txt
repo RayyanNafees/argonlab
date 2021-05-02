@@ -1,0 +1,6 @@
+flask
+flask-mail
+gunicorn==18
+eventlet
+pyrebase
+mysql.connector
